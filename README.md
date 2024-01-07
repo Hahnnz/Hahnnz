@@ -6,6 +6,14 @@
 </p>
 
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hahnnz&theme=transparent" width=100%>
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hahnnz&theme=transparent" width=33%>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hahnnz&theme=transparent" width=33%>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hahnnz&theme=transparent" width=33%>
+</p>
+
+
 <h2 align='center'> 💻 Tech Stack! 💻 </h2>
 <p align='center'>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/ width=10%></a> &nbsp;
