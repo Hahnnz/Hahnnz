@@ -2,8 +2,19 @@
 
 <p align="center">
 <img src="https://github.com/Hahnnz/Hahnnz/assets/23262063/a3909a28-d81c-4c24-8c78-a544e7d87516" width="100%">
-  
 </p>
+
+# _BRIEF BIOGRAPHY_
+- Ph.D. Candidate, Technical Research Personnel<br>
+- Center for Neuroscience Imaging Research, Institute for Basic Science, Suwon, South Korea<br>
+- Department of Biomedical Engineering, Sungkyunkwan University, Suwon, South Korea<br>
+- Department of Intelligent Precision Healthcare Convergence, Sungkyunkwan University, Suwon, South Korea<br>
+
+
+<br><br><br><br>
+<details>
+<summary><img src='https://simpleicons.org/icons/github.svg' width=15px> GitHub Stats <img src='https://simpleicons.org/icons/github.svg' width=15px> </summary>
+<div markdown="1">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hahnnz&theme=transparent" width=100%>
 <p>
@@ -12,9 +23,13 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hahnnz&theme=transparent" width=33%>
 </p>
 
-<br><br><br>
+</div>
+</details>
 
-<h2 align='center'> 💻 Tech Stack! 💻 </h2>
+<details>
+<summary>💻 Tech Stack 💻</summary>
+<div markdown="1">
+
 <p align='center'>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/ width=10%></a> &nbsp;
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/ width=10%></a> &nbsp;
@@ -33,3 +48,5 @@
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/ width=10%></a> &nbsp;
 </p>
 
+</div>
+</details>
