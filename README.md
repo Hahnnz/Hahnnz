@@ -5,13 +5,18 @@
 </p>
 
 # _BRIEF BIOGRAPHY_
-- Ph.D. Candidate, Technical Research Personnel<br>
-- Center for Neuroscience Imaging Research, Institute for Basic Science, Suwon, South Korea<br>
-- Department of Biomedical Engineering, Sungkyunkwan University, Suwon, South Korea<br>
-- Department of Intelligent Precision Healthcare Convergence, Sungkyunkwan University, Suwon, South Korea<br>
+**한지훈, Jihoon Han.**<br>
+* Ph.D. Candidate　　　　　　　　　 `2020.03 ~ Current` [@cocoanlab](https://cocoanlab.github.io/)<br>
+* Technical Research Personnel　　`2023.03 ~ Current` @ CNIR, IBS<br>
 
-
-<br><br><br><br>
+### Currently Work in
+<p>
+  <a href="https://ibs.re.kr/eng.do"><img src="https://github.com/Hahnnz/Hahnnz/assets/23262063/e37de308-c3e5-43e2-934d-1c63ba449356" width=5% align='center'></a> 
+  <a href="https://cnir.ibs.re.kr/html/cnir_en/"><img src="https://github.com/Hahnnz/Hahnnz/assets/23262063/5c69fe5c-d863-48bc-96f0-db54642d84b4" width=5% align='center'></a> 
+  <a href="https://cocoanlab.github.io/"><img src="https://cocoanlab.github.io/img/cocoanlab_logo.png" width=5% align='center'></a> 
+  <a href="https://www.skku.edu/eng/"><img src="https://github.com/Hahnnz/Hahnnz/assets/23262063/444c4126-ccf0-4f40-9c07-60694ad89b8b" width=5% align='center'></a> 
+</p>
+<br><hr>
 <details>
 <summary><img src='https://simpleicons.org/icons/github.svg' width=15px> GitHub Stats <img src='https://simpleicons.org/icons/github.svg' width=15px> </summary>
 <div markdown="1">
