@@ -5,7 +5,7 @@
 </p>
 
 # _BRIEF BIOGRAPHY_
-**한지훈, Jihoon Han.**<br>
+**한지훈, _Jihoon Han._**<br>
 * Ph.D. Candidate　　　　　　　　　 `2020.03 ~ Current` [@cocoanlab](https://cocoanlab.github.io/)<br>
 * Technical Research Personnel　　`2023.03 ~ Current` @ CNIR, IBS<br>
 
@@ -16,7 +16,9 @@
   <a href="https://cocoanlab.github.io/"><img src="https://cocoanlab.github.io/img/cocoanlab_logo.png" width=5% align='center'></a> 
   <a href="https://www.skku.edu/eng/"><img src="https://github.com/Hahnnz/Hahnnz/assets/23262063/444c4126-ccf0-4f40-9c07-60694ad89b8b" width=5% align='center'></a> 
 </p>
-<br><hr>
+
+# 
+
 <details>
 <summary><img src='https://simpleicons.org/icons/github.svg' width=15px> GitHub Stats <img src='https://simpleicons.org/icons/github.svg' width=15px> </summary>
 <div markdown="1">
