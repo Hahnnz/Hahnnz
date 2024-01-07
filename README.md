@@ -46,12 +46,14 @@
 <p align='center'>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/ width=10%> &nbsp;
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/ width=10%> &nbsp;
+  <img src="https://img.shields.io/badge/Matlab-E95420?style=flat&logo=aaaaaaa&logoColor=white"/ width=10%> &nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/ width=10%> &nbsp;
   <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macos&logoColor=white"/ width=10%> &nbsp;
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/ width=10%> &nbsp;
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/ width=10%> &nbsp;
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white"/ width=10%> &nbsp;
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/ width=10%> &nbsp;<br>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/ width=10%> &nbsp;<br>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/ width=10%> &nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/ width=10%> &nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/ width=10%> &nbsp;
   <img src="https://img.shields.io/badge/bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/ width=10%> &nbsp;
