@@ -3,12 +3,17 @@
 <img src="https://github.com/Hahnnz/Hahnnz/assets/23262063/a3909a28-d81c-4c24-8c78-a544e7d87516" width="100%" align="center">
 
 <h6 align="center">my brain..!</h6>
-
 # _BRIEF BIOGRAPHY_
-**🙌 한지훈, _Jihoon Han._**
-* 💻 B.E. Computer Engineering　　 　  `2020.02` @ Hongik University
-* 📖 Ph.D. Candidate　　　　　　　　　 `2020.03 ~ Current` @ Cocoanlab, Sungkyunkwan University
-* 🧑‍🔬 Technical Research Personnel　　`2023.03 ~ Current` @ CNIR, IBS<br>
+
+**🙌 Jihoon Han (_한지훈_)**
+
+- 💻 **B.E. in Computer Engineering**  
+  `Feb. 2020` @ Hongik University  
+- 📖 **Ph.D. Candidate in Biomedical Engineering**  
+  `Mar. 2020 – Present` @ CocoanLab, Sungkyunkwan University (SKKU)  
+- 🧑‍🔬 **Technical Research Personnel** (Alternative Military Service)  
+  `Mar. 2023 – Present` @ Center for Neuroscience Imaging Research (CNIR), Institute for Basic Science (IBS)  
+
 <br>
 
 **🧑‍💻 Currently Work in**
@@ -20,30 +25,9 @@
 </p>
 <br>
 
-# 
+**🍳 Tech Stack 🍳**
 
-<details>
-<summary><img src='https://simpleicons.org/icons/github.svg' width=15px> GitHub Stats <img src='https://simpleicons.org/icons/github.svg' width=15px> </summary>
-<div markdown="1">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hahnnz&theme=transparent" width=48%>
-<img src="https://streak-stats.demolab.com?user=hahnnz&theme=transparent&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&exclude_days=Sun&card_width=500" width=48% alt="GitHub Streak" />
-
-
-<p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hahnnz&theme=transparent" width=33%>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hahnnz&theme=transparent" width=33%>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hahnnz&theme=transparent" width=33%>
-</p>
-
-</div>
-</details>
-
-<details>
-<summary>🍳 Tech Stack 🍳</summary>
-<div markdown="1">
-
-<p align='center'>
+<p align='left'>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/ > &nbsp;
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/ > &nbsp;
   <img src="https://img.shields.io/badge/Matlab-E95420?style=flat&logo=aaaaaaa&logoColor=white"/ > &nbsp;
@@ -61,6 +45,24 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/ > &nbsp;
   <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=pycharm&logoColor=white"/ > &nbsp;
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/ > &nbsp;
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white"/ > &nbsp; <br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/ > &nbsp;
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/ > &nbsp;
+</p>
+
+
+<details>
+<summary><img src='https://simpleicons.org/icons/github.svg' width=15px> GitHub Stats <img src='https://simpleicons.org/icons/github.svg' width=15px> </summary>
+<div markdown="1">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hahnnz&theme=transparent" width=48%>
+<img src="https://streak-stats.demolab.com?user=hahnnz&theme=transparent&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j&exclude_days=Sun&card_width=500" width=48% alt="GitHub Streak" />
+
+
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hahnnz&theme=transparent" width=33%>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hahnnz&theme=transparent" width=33%>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hahnnz&theme=transparent" width=33%>
 </p>
 
 </div>
